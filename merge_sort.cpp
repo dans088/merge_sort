@@ -42,8 +42,6 @@ int* divide_left(int* array, int* new_array, int MAX, int *size)
     int half1[MAX];
     int half2[MAX];
 
-    //printf("%d\n", array[0]);
-
     if(MAX == 1)
     {
         div_count++;
