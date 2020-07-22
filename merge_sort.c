@@ -19,7 +19,7 @@ int* merge(int* array, int* array2, int* size, int* size2);
 int* divide_left(int* array, int* new_array, int MAX, int* size);
 int* divide_right(int* array, int* new_array2, int MAX, int* size);
 splitted divide(int* array, int* size);
-void swap(int* array, int* array2, int i, int j);
+void swap(int* array, int i, int j);
 void readFile(char* string);
 
 //initialize global counter
