@@ -315,8 +315,6 @@ splitted divide(int* array, int* size)
             new_array = divide_left(new_array, new_array, new_size, &new_size);
             exit(1);
         }
-        //reset counter
-        //div_count = 0;
         else if(new_pid > 0)
         {
             //parent sorts right half
