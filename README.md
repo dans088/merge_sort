@@ -10,5 +10,5 @@ Ex.
 
 342 -0.4 32 6 21
 
-#Titanic Notebooks
+# Titanic Notebooks
 Notebooks from Python Machine Learning online course
